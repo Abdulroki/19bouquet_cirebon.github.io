@@ -1,0 +1,286 @@
+* {
+    box-sizing:border-box;
+}
+.bunga {
+    font-size: 20px;
+    padding: 60px;
+    background-color:#bfd8d2;
+    text-align: center;
+    color:#020100;
+    
+}
+main {
+    padding: 20px;
+    overflow: auto;
+}
+
+body {
+    font-family: caveat;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: inline;
+}
+
+.head {
+    font-size: 20px;
+    padding: 60px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: white;
+}
+
+h2,
+h3 {
+    color:#df744a;
+}
+
+nav {
+    background-color: #fedcd2;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: #000000;
+}
+
+nav a:hover {
+    font-weight: bold;
+    color: #df744a;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+.boneka1 {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+    transition: ease-out 500ms;
+}
+
+.boneka1:hover {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+    object-position: center;
+    transition: 1s ease-in-out 100ms;
+}
+
+.uang1 {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+    transition: ease-out 500ms;
+}
+
+.uang1:hover {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+    object-position: center;
+    transition: 1s ease-in-out 100ms;
+}
+
+.snack1 {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+    transition: ease-out 500ms;
+}
+
+.snack1:hover {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+    object-position: center;
+    opacity: 1;
+    transition: 1s ease-in-out 100ms;
+}
+
+.custom1 {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+    transition: ease-out 500ms;
+}
+
+.custom1:hover {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+    object-position: center;
+    transition: 1s ease-in-out 100ms;
+}
+
+.customer {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+    transition: ease-out 500ms;
+}
+
+.customer:hover {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+    object-position: center;
+    transition: 1s ease-in-out 100ms;
+}
+
+.owner {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+    transition: ease-out 500ms;
+}
+
+.owner:hover {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+    object-position: center;
+    transition: 1s ease-in-out 100ms;
+}
+
+.video {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+    transition: ease-out 500ms;
+}
+
+
+
+.promo {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+    transition: ease-out 500ms;
+}
+
+.promo:hover {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+    object-position: center;
+    transition: 1s ease-in-out 100ms;
+}
+
+.testi-moni {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+    transition: ease-out 500ms;
+}
+
+.testi-moni:hover {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+    object-position: center;
+    transition: 1s ease-in-out 100ms;
+}
+
+.figu-re {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.figu-re:hover {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+#content {
+    float: left;
+    width: 75%;
+}
+
+.card {
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #bfd8d2;
+}
+
+.logo {
+    width: 300px;
+    background-color: #bfd8d2;
+}
+
+section {
+    text-align: left;
+    width: 100%;
+}
+
+aside {
+    float: right;
+    width: 25%;
+    padding-left: 20px;
+
+}
+footer {
+    padding: 0px;
+    color: white;
+    background-color: gray;
+    text-align: center;
+    font-weight: bold;
+}
+
+.informasi a {
+    
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        width: 40px;
+        height: 40px;
+        background: black;
+        border: 3px solid #bfd8d2;
+        border-radius: 50%;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        margin: 20px 10px 20px 0;
+
+}
+
+.kecil {
+    width: 100px;
+    height: 100px;
+    display: inline-flex;
+    justify-content: center;
+    margin: 0px 40% 0px 45%;
+}
+
+.atas {
+    width: 200px;
+    height: 200px;
+    display: inline-flex;
+    justify-content: center;
+    margin: 0px 0px 0px 0px;
+}
+
