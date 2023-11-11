@@ -4,10 +4,7 @@
 .bunga {
     font-size: 20px;
     padding: 60px;
-    background-image: url('picture/background\ pink.gif');
-    background-repeat: no-repeat;
-    background-position:center;
-    background-size: cover;
+   background-color: #bfd8d2;
     text-align: center;
     color:#020100;
     
@@ -37,11 +34,11 @@ header {
 
 h2,
 h3 {
-    color: #f95994;
+    color:#df744a;
 }
 
 nav {
-    background-color: #f95994;
+    background-color: #fd82af;
     padding: 5px;
     position: sticky;
     top: 0;
@@ -74,7 +71,7 @@ nav li {
 
 .boneka1:hover {
     width: 100%;
-    max-height: 600px;
+    max-height: 700px;
     object-fit: cover;
     object-position: center;
     transition: 1s ease-in-out 100ms;
@@ -90,7 +87,7 @@ nav li {
 
 .uang1:hover {
     width: 100%;
-    max-height: 600px;
+    max-height: 700px;
     object-fit: cover;
     object-position: center;
     transition: 1s ease-in-out 100ms;
@@ -106,7 +103,7 @@ nav li {
 
 .snack1:hover {
     width: 100%;
-    max-height: 600px;
+    max-height: 700px;
     object-fit: cover;
     object-position: center;
     opacity: 1;
@@ -123,7 +120,7 @@ nav li {
 
 .custom1:hover {
     width: 100%;
-    max-height: 600px;
+    max-height: 700px;
     object-fit: cover;
     object-position: center;
     transition: 1s ease-in-out 100ms;
@@ -139,7 +136,7 @@ nav li {
 
 .customer:hover {
     width: 100%;
-    max-height: 600px;
+    max-height: 700px;
     object-fit: cover;
     object-position: center;
     transition: 1s ease-in-out 100ms;
@@ -155,7 +152,7 @@ nav li {
 
 .owner:hover {
     width: 100%;
-    max-height: 600px;
+    max-height: 700px;
     object-fit: cover;
     object-position: center;
     transition: 1s ease-in-out 100ms;
@@ -181,10 +178,7 @@ nav li {
 
 .promo:hover {
     width: 100%;
-    max-height: 600px;
-    object-fit: cover;
-    object-position: center;
-    transition: 1s ease-in-out 100ms;
+    height: auto;
 }
 
 .testi-moni {
@@ -197,7 +191,7 @@ nav li {
 
 .testi-moni:hover {
     width: 100%;
-    max-height: 600px;
+    max-height: 700px;
     object-fit: cover;
     object-position: center;
     transition: 1s ease-in-out 100ms;
@@ -212,7 +206,7 @@ nav li {
 
 .figu-re:hover {
     width: 100%;
-    max-height: 600px;
+    max-height: 700px;
     object-fit: cover;
     object-position: center;
 }
