@@ -4,7 +4,10 @@
 .bunga {
     font-size: 20px;
     padding: 60px;
-    background-color:#bfd8d2;
+    background-image: url('picture/background\ pink.gif');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
     text-align: center;
     color:#020100;
     
@@ -34,11 +37,11 @@ header {
 
 h2,
 h3 {
-    color:#df744a;
+    color: #f95994;
 }
 
 nav {
-    background-color: #fedcd2;
+    background-color: #f95994;
     padding: 5px;
     position: sticky;
     top: 0;
@@ -160,7 +163,7 @@ nav li {
 
 .video {
     width: 100%;
-    max-height: 400px;
+    max-height: 700px;
     object-fit: cover;
     object-position: center;
     transition: ease-out 500ms;
@@ -170,10 +173,10 @@ nav li {
 
 .promo {
     width: 100%;
-    max-height: 400px;
+    max-height: 100%;
     object-fit: cover;
     object-position: center;
-    transition: ease-out 500ms;
+
 }
 
 .promo:hover {
