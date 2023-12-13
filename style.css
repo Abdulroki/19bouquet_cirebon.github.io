@@ -4,7 +4,7 @@
 .bunga {
     font-size: 20px;
     padding: 60px;
-   background-color: #bfd8d2;
+    background-color: #bfd8d2;
     text-align: center;
     color:#020100;
     
@@ -324,3 +324,7 @@ footer {
     margin: 0px 0px 0px 0px;
 }
 
+.contactme{
+    display: inline;
+
+}
